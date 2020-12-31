@@ -21,7 +21,11 @@ A Full Stack Developer From The United Kingdom I love building applications & di
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleFardy&layout=compact)][github]
 
+[My Website][homepage]
+[Personal Github][github]
+[Business Github][bgithub]
+
 [homepage]: https://smacker-solutions.co.uk
 [twitter]: https://twitter.com/S_Solutions__
 [github]: https://github.com/KyleFardy
-[github]: https://github.com/Smacker-Solutions
+[bgithub]: https://github.com/Smacker-Solutions
